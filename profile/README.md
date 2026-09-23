@@ -1,3 +1,6 @@
+HTML
+<p align="center">
+<img src="../assets/logo-en.png" alt="Information Systems Research
 # Information Systems Research Group
 
 ### Grupo de Investigación en Sistemas de Información
