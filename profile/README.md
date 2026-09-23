@@ -1,6 +1,6 @@
 <p align="center">
-<img src="../assets/logo-en.png"
-  
+<img src="../assets/logo-en.png">
+
 # Information Systems Research Group
 
 ### Grupo de Investigación en Sistemas de Información
