@@ -37,13 +37,13 @@ Our research covers different areas related to Information Systems, including:
 
 Meet the researchers who are part of the group:
 
-- **Antonio Becerra Terón** — https://github.com/ORGANIZATION/researcher-name
-- **Isabel María del Águila Cano** — https://github.com/isg-almeria/imaguila
-- **Alfonso Bosch Arán** — https://github.com/ORGANIZATION/researcher-name
-- **Jose Joaquín Cañadas Martínez** — https://github.com/ORGANIZATION/researcher-name
-- **Manuel Torres Gil** — https://github.com/ORGANIZATION/researcher-name
-- **Jose Joaquín Cañadas Martínez** — https://github.com/ORGANIZATION/researcher-name
-- **Jose Joaquín Cañadas Martínez** — https://github.com/ORGANIZATION/researcher-name
+- [**Antonio Becerra Terón**](https://github.com/isg-almeria/abecerra) **( HEAD / Responsable)**
+- [**José Joaquín Cañadas Martínez**](https://github.com/isg-almeria/jjcanada)
+- [**Jose Aguilera Fernandez**](https://github.com/isg-almeria/jaguilera)
+- [**Manuel Torres Gil**](https://github.com/isg-almeria/mtorres)
+- [**Alfonso José Bosch Arán**](https://github.com/isg-almeria/abosch)
+- [**Manuel José Martínez-Santaolalla Martínez**](https://github.com/isg-almeria/mmartinez)
+- [**Isabel María del Águila Cano**](https://github.com/isg-almeria/imaguila)
 
 
 Each researcher maintains their own profile with information about their
