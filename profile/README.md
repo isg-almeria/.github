@@ -39,7 +39,7 @@ Meet the researchers who are part of the group:
 
 - [**Antonio Becerra Terón**](https://github.com/isg-almeria/abecerra) **( HEAD / Responsable)**
 - [**José Joaquín Cañadas Martínez**](https://github.com/isg-almeria/jjcanada)
-- [**Jose Aguilera Fernandez**](https://github.com/isg-almeria/jaguilera)
+- [**Jose Aguilera Fernandez**](https://github.com/isg-almeria/jaguiler)
 - [**Manuel Torres Gil**](https://github.com/isg-almeria/mtorres)
 - [**Alfonso José Bosch Arán**](https://github.com/isg-almeria/abosch)
 - [**Manuel José Martínez-Santaolalla Martínez**](https://github.com/isg-almeria/mmartinez)
